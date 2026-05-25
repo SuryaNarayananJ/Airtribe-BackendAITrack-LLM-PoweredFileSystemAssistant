@@ -160,8 +160,8 @@ Here are some example queries you can use to test the assistant's capabilities:
 - "Who has machine learning experience?"
 
 ### File Reading
-- "Read arjun mehta.pdf"
-- "Show me the content of priya sharma.docx"
+- "Read resumes/arjun mehta.pdf"
+- "Show me the content of resumes/priya sharma.docx"
 - "Read the resume of the candidate with Python experience"
 
 ### File Creation
@@ -172,7 +172,7 @@ Here are some example queries you can use to test the assistant's capabilities:
 ### Complex Queries
 - "Find all candidates with Python experience and save their names to output/python_devs.txt"
 - "Who has both frontend and backend skills?"
-- "Compare the skills of arjun mehta.pdf and priya sharma.docx"
+- "Compare the skills of resumes/arjun mehta.pdf and resumes/priya sharma.docx"
 - "List all candidates and their primary skills"
 
 ### Security Testing
