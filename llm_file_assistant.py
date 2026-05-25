@@ -26,7 +26,7 @@ def load_config() -> dict[str, Any]:
         print("Please configure it in a local .env file or export it in your environment.", file=sys.stderr)
         sys.exit(1)
 
-    model = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile").strip()
+    model = os.environ.get("GROQ_MODEL", "qwen/qwen-2.5-32b").strip()
     
     # Parse turns guard
     try:
@@ -211,6 +211,9 @@ def run_agent(client: Groq, user_query: str, history: list[dict[str, Any]] | Non
             err_msg = f"Groq API Error: {str(exc)}"
             if debug:
                 print(f"[DEBUG] API call failed: {err_msg}")
+            # Handle tool validation errors specifically
+            if "tool call validation failed" in str(exc):
+                return "I encountered an internal error with the AI service's tool calling. Please try a simpler query or try again in a moment."
             return f"I encountered an error communicating with the AI service: {str(exc)}"
         except Exception as exc:
             err_msg = f"Unexpected connection error: {str(exc)}"

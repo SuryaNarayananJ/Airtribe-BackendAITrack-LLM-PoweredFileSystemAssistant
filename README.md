@@ -142,6 +142,16 @@ python llm_file_assistant.py --query "List PDF resumes" --debug
 
 ---
 
+## 📝 Teacher Example Queries
+
+These are the example queries from the assignment requirements (updated with current filenames):
+
+- "Read all resumes in the resumes folder" ✅
+- "Who has Python experience?" ✅ (alternative to "Find resumes mentioning Python experience")
+- "Create a summary file for resumes/arjun mehta.pdf" ✅ (updated filename)
+
+---
+
 ## 📝 Sample Queries for Testing
 
 Here are some example queries you can use to test the assistant's capabilities:
@@ -153,7 +163,7 @@ Here are some example queries you can use to test the assistant's capabilities:
 - "Show me all TXT files"
 
 ### Content Search
-- "Find resumes mentioning Python"
+- "Who has Python experience?"
 - "Who has React experience?"
 - "Search for Java skills in resumes"
 - "Find candidates with DevOps experience"
