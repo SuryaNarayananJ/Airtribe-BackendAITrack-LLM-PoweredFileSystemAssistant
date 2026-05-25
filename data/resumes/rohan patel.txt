@@ -1,0 +1,22 @@
+ROHAN PATEL
+Email: rohan.patel@gmail.com | Phone: +91 98230 11456 | Pune, Maharashtra, India
+
+SUMMARY
+Data scientist with 5 years of Python experience building ML pipelines,
+analytics products, and experimentation platforms for e-commerce.
+
+EXPERIENCE
+Data Scientist — ShopKart Analytics, Bangalore (2021–Present)
+- Built Python models for churn prediction and product recommendations.
+- Deployed batch scoring jobs with pandas, scikit-learn, and Airflow.
+- Partnered with product on A/B tests and metric dashboards.
+
+Analytics Engineer — RetailNova India, Mumbai (2019–2021)
+- Developed ETL workflows in Python and SQL for sales forecasting.
+- Created feature stores used by marketing and merchandising teams.
+
+SKILLS
+Python, machine learning, pandas, scikit-learn, SQL, Airflow, statistics
+
+EDUCATION
+M.Tech Data Science — IIT Bombay

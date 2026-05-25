@@ -1,0 +1,33 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 718 >> stream
+BT /F1 11 Tf
+1 0 0 1 72 750 Tm (ANANYA REDDY) Tj
+1 0 0 1 72 736 Tm (Email: ananya.reddy@gmail.com | Hyderabad, Telangana, India) Tj
+1 0 0 1 72 708 Tm (SUMMARY) Tj
+1 0 0 1 72 694 Tm (Java backend developer experienced with Spring Boot microservices) Tj
+1 0 0 1 72 680 Tm (and high-volume transaction processing.) Tj
+1 0 0 1 72 652 Tm (EXPERIENCE) Tj
+1 0 0 1 72 638 Tm (Backend Engineer - FinEdge Systems, Hyderabad \(2018-Present\)) Tj
+1 0 0 1 72 624 Tm (- Designed Java services with Spring Boot for account workflows.) Tj
+1 0 0 1 72 610 Tm (- Tuned JVM performance and improved API latency under peak load.) Tj
+1 0 0 1 72 582 Tm (SKILLS) Tj
+1 0 0 1 72 568 Tm (Java, Spring Boot, SQL, Kafka, Maven, unit testing) Tj
+ET
+endstream
+endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001010 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1080
+%%EOF

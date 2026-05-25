@@ -1,0 +1,33 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 702 >> stream
+BT /F1 11 Tf
+1 0 0 1 72 750 Tm (ARJUN MEHTA) Tj
+1 0 0 1 72 736 Tm (Email: arjun.mehta@gmail.com | Mumbai, Maharashtra, India) Tj
+1 0 0 1 72 708 Tm (SUMMARY) Tj
+1 0 0 1 72 694 Tm (Backend developer with 3 years of Python experience building APIs) Tj
+1 0 0 1 72 680 Tm (and data services for fintech products.) Tj
+1 0 0 1 72 652 Tm (EXPERIENCE) Tj
+1 0 0 1 72 638 Tm (Software Engineer - PayRupees Fintech, Mumbai \(2022-Present\)) Tj
+1 0 0 1 72 624 Tm (- Built REST APIs in Python \(FastAPI\) for payments and reporting.) Tj
+1 0 0 1 72 610 Tm (- Maintained PostgreSQL schemas and unit tests with pytest.) Tj
+1 0 0 1 72 582 Tm (SKILLS) Tj
+1 0 0 1 72 568 Tm (Python, FastAPI, SQL, Git, Docker basics) Tj
+ET
+endstream
+endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000994 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1064
+%%EOF

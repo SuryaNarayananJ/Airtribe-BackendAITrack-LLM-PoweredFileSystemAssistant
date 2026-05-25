@@ -1,0 +1,4 @@
+# Configuration for Pyrefly type checker and language server
+site-package-path = [
+    "C:\\Users\\NEW\\AppData\\Roaming\\Python\\Python313\\site-packages"
+]
